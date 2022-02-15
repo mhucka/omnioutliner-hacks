@@ -11,5 +11,5 @@ function run() {
     app.includeStandardAdditions = true;
     var OmniOutliner = Application('OmniOutliner');
     var frontmost = OmniOutliner.documents[0];
-    console.log(frontmost.file());
+    console.log('' + frontmost.file());
 }
