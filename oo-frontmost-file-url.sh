@@ -1,5 +1,5 @@
 #!/usr/bin/env osascript -l JavaScript
-// ============================================================================
+// ================================================================= -*- js -*-
 // @file    oo-frontmost-file
 // @brief   Return the full file path URL of the document in the front window
 // @author  Michael Hucka <mhucka@caltech.edu>
